@@ -1,0 +1,6 @@
+Nome;Sigla;Carga
+Mylena;3DAW;16
+Caio;2CAW;20
+Josue;1MAC;24
+Maria;2CAL;30
+Marcela;1LPO;8
